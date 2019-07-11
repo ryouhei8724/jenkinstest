@@ -7,5 +7,8 @@ node {
      }
      stage('deploy'){
            echo "deploy"
+     }   
+     stage('deploy'){
+           echo "deploy"
      }     
 }
